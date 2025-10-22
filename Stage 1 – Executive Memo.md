@@ -1,8 +1,8 @@
 # [Memo Title]
 
-**Created by:** [name]  
-**Updated by:** [name]  
-**Date Created:** [date]  
+**Created by:** Jacob Baltazar  
+**Updated by:** Jacob Baltazar  
+**Date Created:** 10/21/25
 **Date Updated:** [date]  
 **Version:** [0.0]
 **LLM Used:"" [LLM] (optional if LLm used)
