@@ -9,7 +9,7 @@
 
 ---
 
-## Executive Summary (≤150 words)
+## Executive Summary
 Our firm expects to receive €4,500,000 in one year for solar equipment sales. With the EURUSD forward rate at 1.0875, today’s value is approximately $4,893,750. However, currency market volatility means our actual USD proceeds could vary significantly by maturity. Unhedged, we risk adverse EURUSD moves and potential revenue loss. To better manage this exposure, we recommend evaluating hedging tools—forward contracts, money market hedges, and options, which can lock in value, reduce uncertainty, and protect our bottom line.
 
 ---
@@ -37,9 +37,11 @@ We consider three key hedging strategies:
 
 ## Limitations & Next Steps
 Interest rate changes or market disruptions could affect hedge pricing and execution. Immediate next steps:  
-- Confirm spot rate and current interest rates.  
-- Quantify costs for each strategy.  
-- Present recommendations for management approval.
+- Technical Specification: a quantitative plan for a spreadsheet model.
+- Excel Model Build: Implement your spec into a basic .xlsx model.
+- Prompt Engineering: Write a prompt that, given inputs, asks an AI to generate the spreadsheet matching your spec.
+- Final Analysis & Recommendation: Choose a hedge using your model.
+
 
 ---
 
