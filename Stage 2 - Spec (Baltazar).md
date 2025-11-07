@@ -6,6 +6,7 @@
 **Date Updated:** 2025-11-06  
 **Version:** 1.0  
 **LLM Used:** GPT-5 mini
+
 **Role:** Financial / Treasury Analyst  
 **Audience:** CFO / Director of Treasury
 
