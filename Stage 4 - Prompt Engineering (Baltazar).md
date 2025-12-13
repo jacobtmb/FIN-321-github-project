@@ -124,48 +124,6 @@ This is the most efficient way to use AI for models.
 
 ---
 
-# Sample Stage 4 Prompt (with GitHub Integration)
-
-```md
-You are a financial modeling assistant.
-
-# GOAL
-Create an Excel file modeling forward, money market, and option hedges for my EUR receivable.
-
-# CONTEXT FILES (GitHub)
-Use the logic in:
-- https://github.com/example/fin321/stage2-spec.md
-- https://github.com/example/fin321/stage3-skeleton.xlsx
-
-# INPUT VARIABLES
-FC_AMT = 2,850,000
-Spot = 1.0934
-Forward = 1.0875
-r_USD = 5.10%
-r_EUR = 2.71%
-K_put = 1.0900
-K_call = 1.0900
-Premium_put = 0.017
-Premium_call = 0.022
-T_days = 360
-
-# SPREADSHEET REQUIREMENTS
-Use named ranges.
-Color code inputs yellow, formulas green, outputs gray, assumptions blue.
-Include forward hedge, money market hedge, option hedge, and sensitivity analysis.
-
-# MODEL LOGIC
-(Insert pseudocode from Stage 2 spec)
-
-# VERIFICATION
-Validate parity and confirm all named ranges.
-
-# EXPORT
-Return a downloadable Excel file.
-```
-
----
-
 # Evaluation
 
 | Criterion | Description | Points |
